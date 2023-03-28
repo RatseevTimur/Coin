@@ -1,0 +1,28 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.11.2",
+    "expo": "~47.0.12",
+    "expo-file-system": "~15.1.1",
+    "expo-gl": "~12.0.1",
+    "expo-sensors": "~12.0.1",
+    "expo-status-bar": "~1.4.2",
+    "expo-three": "^7.0.0",
+    "react": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-reanimated": "~2.12.0",
+    "three": "^0.149.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
